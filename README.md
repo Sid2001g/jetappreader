@@ -33,7 +33,7 @@ Contributing
 We welcome contributions to enhance the functionality and features of the Book Reader Review App. If you'd like to contribute, please follow our contribution guidelines.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 Acknowledgments
 We appreciate your interest and support in the Book Reader Review App. If you have any questions or suggestions, feel free to reach out to us.
